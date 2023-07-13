@@ -1,4 +1,5 @@
 - Add more checks
+- Check systemd version and its vulnerabilities
 - Add more potential files with passwords to sensitive_files.yaml
 - Add more regex of interesting APIs to regexes.yaml
 - Mantain updated the list of vulnerable SUID binaries
