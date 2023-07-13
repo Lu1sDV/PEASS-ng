@@ -15,6 +15,7 @@
 
 ### Add More checks to LinPEAS and WinPEAS
 - [ ] Add more checks in LinPEAS
+- [ ] Check for systemd version and its vulnerabilities
 - [ ] Add more checks in WinPEAS
 
 ### Find a way to minify and/or obfuscate LinPEAS automatically
